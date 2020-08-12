@@ -1,0 +1,18 @@
+<PreferenceScreen xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:android2="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        android2:layout_width="match_parent"
+        android2:layout_height="wrap_content"
+        android2:defaultValue="true"
+        android2:dialogIcon="@drawable/ic_baseline_timelapse"
+        android2:entries="@array/settings_list_preference_titles"
+        android2:entryValues="@array/settings_list_preference_values"
+        android2:icon="@drawable/ic_baseline_timelapse"
+        android2:key="list_duration"
+        android2:summary="Set message duration"
+        android2:title="Select message expiration"
+        app:defaultValue="true"
+        app:isPreferenceVisible="true"
+        app:key="list_duration" />
+</PreferenceScreen>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SeamFix Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="messages_received">Rx:</string>
+    <string name="publish_to_topic">Publish to topic</string>
+    <string name="publish">Publish</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribe_to_topic">Subscribe to topic</string>
+    <string name="message_payload">Message payload</string>
+    <string name="heading_msg_payload"><u>Received Message payloads</u></string>
+
+    <string name="enter_user_id">Enter User ID</string>
+    <string name="welcome">Welcome</string>
+    <string name="connect_caption">Connect</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
